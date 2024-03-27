@@ -1,0 +1,43 @@
+{
+  "tickets": [
+    {
+      "date": "Saturday 4th May",
+      "type": [
+        "3rd Release",
+        "4th Release",
+        "5th Release",
+        "Final Release"
+      ],
+      "price": [
+        "49.50",
+        "55.00",
+        "60.50",
+        "66.00"
+      ]
+    },
+    {
+      "date": "Saturday 5th May",
+      "type": [
+        "4th Release",
+        "5th Release",
+        "Final Release"
+      ],
+      "price": [
+        "55.00",
+        "60.50",
+        "66.00"
+      ]
+    },
+    {
+      "date": "Weekend 4th - 5th May",
+      "type": [
+        "5th Release",
+        "Final Release"
+      ],
+      "price": [
+        "110.00",
+        "121.00"
+      ]
+    }
+  ]
+}
